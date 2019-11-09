@@ -39,8 +39,8 @@ $ TURNING OFF...
 
 #### Technologies Used
 
- *Java
- *While Loops
+ * Java
+ * While Loops
 
 #### Lessons Learned
 
